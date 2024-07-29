@@ -1,7 +1,7 @@
 # Amir Mohammad Hajigol
 
 <div align="center">
-  <img src="https://your-image-link-here" alt="Profile Banner" width="800">
+  <img src="https://github.com/user-attachments/assets/f3b4e0d0-5575-4ba1-a1af-1b17aa243a3d" alt="Profile Banner" width="800">
 </div>
 
 ## About Me
