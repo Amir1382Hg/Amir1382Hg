@@ -52,44 +52,28 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
 </div>
 
-## Projects
-
-### [Project Name](https://github.com/yourusername/projectname)
-
-Description of the project, the technologies used, and any notable achievements or features.
-
-### [Another Project](https://github.com/yourusername/anotherproject)
-
-Description of the project, the technologies used, and any notable achievements or features.
-
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&theme=radical" alt="Your GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir1382Hg&show_icons=true&theme=radical" alt="Your GitHub Stats">
 </div>
 
 ## Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davevad93&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir1382Hg&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amir1382Hg&theme=radical" alt="GitHub Trophies">
 </div>
 
 ## Connect with Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/your-profile">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/amiir_Hg)
 
 ## Latest Blog Posts
 
