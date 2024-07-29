@@ -1,37 +1,56 @@
-## Hi there 👋
-# Amir Mohammad Haji Gol
+# Amir Mohammad Hajigol
 
-
-![Profile Banner](https://your-image-link-here)
+<div align="center">
+  <img src="https://your-image-link-here" alt="Profile Banner" width="800">
+</div>
 
 ## About Me
 
-- 🎓 **Education**: Bachelor's degree in Computer Science
-- 💡 **Interests**: Artificial Intelligence, Machine Learning, Data Science
-- 🌱 **Currently Learning**: Advanced AI techniques and algorithms
-- 🎯 **Goals**: To develop innovative AI-based solutions and contribute to open-source projects
-- 💬 **Ask me about**: Programming, AI, technology, and anything related to computer science
-- 📫 **How to reach me**: [your-email@example.com](mailto:your-email@example.com)
+👋 Hi there! I'm Amir Mohammad Hajigol, a Bachelor's degree student in Computer Science with a passion for Artificial Intelligence.
+
+- 🎓 **Education**: Computer science student at Isfahan University of Technology
+- 💡 **Interests**: Artificial Intelligence, Machine Learning, Data Science,web development
+- 🌱 **Currently Learning**: Back-end PHP
+- 📫 **How to reach me**: [Telegraml(@amiir_Hg)
 
 ## Skills
 
 ### Programming Languages
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+</div>
 
-### Technologies
+### Frameworks
 
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Deep Learning**: Keras, TensorFlow, PyTorch
-- **Data Science**: Pandas, NumPy, Matplotlib
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+</div>
+
+### IDEs
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
+</div>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</div>
+
+### Operating Systems
+
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</div>
 
 ## Projects
 
@@ -45,20 +64,32 @@ Description of the project, the technologies used, and any notable achievements 
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davevad93&show_icons=true&theme=radical" alt="Your GitHub Stats">
+</div>
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davevad93&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davevad93&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ## Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=davevad93&theme=radical)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=radical" alt="GitHub Trophies">
+</div>
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-profile">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</div>
 
 ## Latest Blog Posts
 
@@ -68,4 +99,3 @@ Description of the project, the technologies used, and any notable achievements 
 ---
 
 *This README was generated with ❤️ by [yourusername](https://github.com/yourusername)*
-
